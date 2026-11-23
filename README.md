@@ -24,10 +24,8 @@ Execute the C Program for the desired output.
 
 
 
-
-
 ## OUTPUT
-
+<img width="750" height="648" alt="image" src="https://github.com/user-attachments/assets/33f24517-4b81-4e70-8683-90e1768e8d4b" />
 
 # RESULT:
 The program is executed successfully.
